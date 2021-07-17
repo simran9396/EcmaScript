@@ -4,4 +4,4 @@
       return totalcost;
 
   }
-  console.log(` The total cost for fensing is Rs.${fencingRect(20,30,7,12)}`)
+  console.log(` The total cost for fensing is Rs.${fencingRect(20,30,7,12)}`) 
