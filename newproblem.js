@@ -13,12 +13,4 @@ const h=14
 const r2=5
 const x=12
 
-console.log(`area of shaded portion is${areaReactangle(h,b-r)+(1/2*areaCircle
-    
-    
-    
-    
-    
-    
-    
-    (r))+areaTriangle(b-r,x)-areaCircle(r2)}`)
+console.log(`area of shaded portion is${areaReactangle(h,b-r)+(1/2*areaCircle (r))+areaTriangle(b-r,x)-areaCircle(r2)}`)

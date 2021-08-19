@@ -23,7 +23,7 @@ return sum*numberofwire,rate
 }
 console.log(fence([50,20,20,30],5,10))
 // --------------------------------------------optimum----------------------
-const fenceing=(edges,numberofwire,rate)=>{
+const fenceing=(edges,numberofwire,rate)=> {
     let sum=0;
     edges.forEach(element=>{
         sum=sum+element

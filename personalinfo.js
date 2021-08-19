@@ -24,4 +24,5 @@ console.log(personalinfo([
     Institute: "pixkupbiz",
     mobNo: 9874541564,
     city: "Mumbai"
-}]))
+}
+]))

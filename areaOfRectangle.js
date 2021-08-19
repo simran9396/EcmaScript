@@ -18,4 +18,3 @@ const h=30
 
 console.log(`area of digram is${areaReactangle(x,b)+areaTriangle(b,h-x)}`)
 // ----------------------------------------------------------------------------------
-const ha

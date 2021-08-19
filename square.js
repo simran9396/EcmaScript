@@ -25,4 +25,5 @@ console.log (findsquareOpt([5,2,7,9,10]))
 const find=(Number,power)=>Number.map((element)=>element**power)
 console.log (find([5,2,7,9,10],3))
 console.log (find([5,2,7,9,10],4))
-  
+ 
+const find=(num,power)=>Number.map((element)=>element**power)
